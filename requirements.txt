@@ -1,0 +1,9 @@
+gradio
+pypdf
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+huggingface_hub
+python-dotenv
+langchain-huggingface

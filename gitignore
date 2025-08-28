@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.json
+.cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.env
+.venv/
+venv/
+build/
+dist/
